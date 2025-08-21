@@ -1,1 +1,1 @@
-# Mini-Compiler
+# Mini Compiler
